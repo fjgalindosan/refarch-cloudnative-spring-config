@@ -2,8 +2,7 @@ wfd:
   appetizer:
     order: 1
     type: appetizer
-    menu:
-      - Prueba
+    menu:      
       - Crab Cakes- Modificado
       - Chicken Satay
       - Mozzerella Sticks
