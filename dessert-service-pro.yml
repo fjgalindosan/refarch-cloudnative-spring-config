@@ -1,0 +1,9 @@
+wfd:
+  dessert:
+    order: 3
+    type: dessert
+    menu:
+      - Chocolate Cake - From Spring Cloud
+      - Banoffee
+      - Ice Cream
+      - Tiramisu
