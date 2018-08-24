@@ -12,7 +12,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ibm-cloud-architecture/refarch-cloudnative-spring-config
+          uri: https://github.com/fjgalindosan/refarch-cloudnative-spring-config
 
 server:
   port: ${PORT:8888}
